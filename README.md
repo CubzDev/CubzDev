@@ -1,7 +1,7 @@
 #  《 CubzDev 》
 
- - 🔭 I’m currently working on: [Orion](https://github.com/CubzDev/Orion)
- - 🌱 I’m currently learning: Javascript, SQL
+ - 🔭 Currently working on: [Orion](https://github.com/CubzDev/Orion)
+ - 🌱 Currently learning: Javascript, SQL
  - 📫 How to reach me: [Twitter](https://twitter.com/OvereemGene) or E-mail: gene@overeem.be.
  - ⚡ Fun fact: I can play the guitar and produce music in my free time!
 <br>

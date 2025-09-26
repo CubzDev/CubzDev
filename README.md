@@ -1,8 +1,7 @@
 #  《 CubzDev 》
 
- - 🔭 Currently working on: [Orion](https://github.com/CubzDev/Orion)
- - 🌱 Currently learning: Express, React, SQL and Pug
- - 📫 How to reach me: [Twitter](https://twitter.com/OvereemGene) or E-mail: gene@overeem.be.
+ - 🔭 Currently working on: [CodeWrench](https://codewrench.org)
+ - 🌱 Currently learning: Express, React, and Pug
  - ⚡ Fun fact: I play the guitar and produce music in my free time!
 <br>
 <br>

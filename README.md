@@ -162,9 +162,7 @@ Exploring local language models, coding assistants and automation tools that fit
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=CubzDev&theme=transparent&hide_border=true)
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CubzDev&theme=github-compact&hide_border=true&area=true)
-
-<sub>These public widgets depend on third-party services and may not fully reflect work in private repositories.</sub>
+<sub>These public widgets depend on third-party services and may not fully reflect work in private repositories. You can always check my contributions below.</sub>
 
 </div>
 
